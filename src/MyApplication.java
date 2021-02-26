@@ -82,7 +82,7 @@ public class MyApplication {
 
 
     public void createUserMenu(){
-        System.out.println("Please enter name");
+        System.out.println("Please enter nananame");
         String name = scanner.next();
         System.out.println("Please enter price");
         Double price = scanner.nextDouble();
